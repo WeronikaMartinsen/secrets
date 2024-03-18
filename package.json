@@ -16,5 +16,8 @@
     "url": "https://github.com/WeronikaMartinsen/secrets/issues"
   },
   "homepage": "https://github.com/WeronikaMartinsen/secrets#readme",
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
 }
