@@ -1,0 +1,20 @@
+{
+  "name": "secrets",
+  "version": "1.0.0",
+  "description": "secrets",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeronikaMartinsen/secrets.git"
+  },
+  "author": "Weronika Martinsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeronikaMartinsen/secrets/issues"
+  },
+  "homepage": "https://github.com/WeronikaMartinsen/secrets#readme",
+  "keywords": []
+}
